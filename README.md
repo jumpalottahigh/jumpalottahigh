@@ -1,6 +1,6 @@
-<h2 style="text-align: center"> Hi everyone, I'm Georgi 👋</h2>
+<h2 align="center" style="border-bottom: none"> Hi everyone, I'm Georgi 👋</h2>
 
-<p style="text-align: center">
+<p align="center">
   <a href="https://blog.georgi-yanev.com">Blog</a> •
   <a href="https://twitter.com/jumpalottahigh">Twitter</a> •
   <a href="https://www.youtube.com/channel/UCCh3SK2EktDdOQkEOTDmSCg/">YouTube</a> •
@@ -16,8 +16,6 @@ I enjoy [teaching](https://blog.georgi-yanev.com/learning/jamstack-with-gatsby-a
 I love flying FPV racing drones and I also share that passion with the community in the form of YouTube videos on my [FPVtips channel](https://www.youtube.com/channel/UCCh3SK2EktDdOQkEOTDmSCg/).
 
 I'm also convinced that "white privilage" is not fiction and we all need to play our part in order to start bringing the world closer to real racial and gender equality. We are all Earthlings and we should strive to be NICE and to become multiplanetary species.
-
----
 
 - 💻 I’m currently mostly working with: React, TypeScript, Node.js, Electron, ES6
 
